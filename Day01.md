@@ -7,12 +7,12 @@
   - 📊 **Math & Statistics**
   - 🌍 **Domain Knowledge**
 - 🔄 Data Science Workflow:
-  1️⃣ Problem Definition  
-  2️⃣ Data Collection & Pre-processing  
-  3️⃣ Data Analysis  
-  4️⃣ Data Visualization  
-  5️⃣ Machine Learning  
-  6️⃣ AI Applications  
+    1️⃣ Problem Definition  
+    2️⃣ Data Collection & Pre-processing  
+    3️⃣ Data Analysis  
+    4️⃣ Data Visualization  
+    5️⃣ Machine Learning  
+    6️⃣ AI Applications  
 
 ---
 
