@@ -21,7 +21,7 @@
 
 ### 🔧 Steps
 1. **Importing Libraries**
-   ```python
+     ```python
    import pandas as pd
    import numpy as np
    import matplotlib.pyplot as plt
@@ -31,12 +31,13 @@
    from sklearn.metrics import mean_absolute_error, mean_squared_error
    
 2. **Data Loading & Inspection**
+     ```python
    ecom = pd.read_csv('datasets/ecommerce-customers.csv')
    ecom.head()
    ecom.info()
    ecom.describe().round(1)
 
-3. **Data Loading & Inspection**
+4. **Data Loading & Inspection**
    -📈 Pairplots & Jointplots (relationships between features)
    -🔗 Strong correlation found: Length of Membership ↔ Yearly Amount Spent
 
