@@ -64,6 +64,6 @@
    print("RMSE:", np.sqrt(mean_squared_error(y_test, y_pred)))
 
 
-##✅ Key Insights
+## ✅ Key Insights
   - 🕐 Length of Membership is the strongest predictor of yearly spending.
   - 🤖 Linear Regression works as a solid baseline model.
