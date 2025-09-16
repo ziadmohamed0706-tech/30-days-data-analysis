@@ -40,10 +40,11 @@
 3. **Data Loading & Inspection**
    -📈 Pairplots & Jointplots (relationships between features)
    -🔗 Strong correlation found: Length of Membership ↔ Yearly Amount Spent
-     ```python
-  X = ecom[['Avg. Session Length','Time on App','Time on Website','Length of Membership']]
-  y = ecom['Yearly Amount Spent']
-  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101)
+
+    ```python
+   X = ecom[['Avg. Session Length','Time on App','Time on Website','Length of Membership']]
+   y = ecom['Yearly Amount Spent']
+   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101)
 
 4. **Train/Test Split**
     ```python
