@@ -15,7 +15,7 @@ This repo documents my **daily progress** – notes, projects, case studies, and
  ┃ ┣ Day03.md
  ┃ ┗ ...
  ┣ README.md       # This file (challenge overview)
-
+```
 
 ---
 
