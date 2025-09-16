@@ -40,7 +40,6 @@
 3. **Data Loading & Inspection**
    -📈 Pairplots & Jointplots (relationships between features)
    -🔗 Strong correlation found: Length of Membership ↔ Yearly Amount Spent
- 
      ```python
   X = ecom[['Avg. Session Length','Time on App','Time on Website','Length of Membership']]
   y = ecom['Yearly Amount Spent']
