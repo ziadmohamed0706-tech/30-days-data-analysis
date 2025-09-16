@@ -7,7 +7,7 @@ This repo documents my **daily progress** – notes, projects, case studies, and
 ---
 
 ## 📂 Repository Structure
-```text
+```
 📂 30-days-data-analysis
  ┣ 📝 README.md          # 📖 Challenge overview
  ┣ 📘 Day01.md           # ✅ Data Science Foundations
