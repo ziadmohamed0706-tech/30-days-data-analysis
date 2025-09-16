@@ -9,12 +9,14 @@ This repo documents my **daily progress** – notes, projects, case studies, and
 ## 📂 Repository Structure
 ```text
 📂 30-days-data-analysis
- ┣ 📂 notes         # Daily notes & case studies
- ┃ ┣ Day01.md
- ┃ ┣ Day02.md
- ┃ ┣ Day03.md
- ┃ ┗ ...
- ┣ README.md       # This file (challenge overview)
+ ┣ 📝 README.md          # 📖 Challenge overview
+ ┣ 📘 Day01.md           # ✅ Data Science Foundations
+ ┣ 📘 Day02.md
+ ┣ 📘 Day03.md
+ ┣ 📘 Day04.md
+ ┣ 📘 Day05.md
+ ┣ 📕 ...
+ ┗ 📗 Day30.md           # 🏁 Final Reflection
 ```
 
 ---
