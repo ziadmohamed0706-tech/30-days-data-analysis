@@ -25,7 +25,7 @@ This repo documents my **daily progress** – notes, projects, case studies, and
 
 | Day | Topic / Task | Link |
 |-----|--------------|------|
-| 01  | Data Science Foundations + Case Study (E-Commerce Customers) | [Day01](Day01.md) |
+| 01  | Data Science Foundations + Case Study (E-Commerce Customers) | [Day_01](Day_01.md) |
 | 02  | ... | Coming soon 🔜 |
 | 03  | ... | Coming soon 🔜 |
 | ... | ... | ... |
