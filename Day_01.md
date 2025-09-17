@@ -67,3 +67,7 @@
 ## ✅ Key Insights
   - 🕐 Length of Membership is the strongest predictor of yearly spending.
   - 🤖 Linear Regression works as a solid baseline model.
+
+
+
+# 🚀 Day 01 Completed – Tomorrow I’ll dive deeper into **Data Tools & Python practice** 🙌✨
