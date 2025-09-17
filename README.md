@@ -11,7 +11,7 @@ This repo documents my **daily progress** – notes, projects, case studies, and
 📂 30-days-data-analysis
  ┣ 📝 README.md          # 📖 Challenge overview
  ┣ 📘 Day01.md           # ✅ Data Science Foundations
- ┣ 📘 Day02.md           # ✅ 📚 Data Literacy, 🗃️ SQL Practice & 🌐 Digital Transformation
+ ┣ 📘 Day02.md           # ✅ Data Literacy, SQL Practice & Digital Transformation
  ┣ 📘 Day03.md
  ┣ 📘 Day04.md
  ┣ 📘 Day05.md
